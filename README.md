@@ -1,6 +1,9 @@
 ## About Me
+# Hi there, I'm Atta-e-Rabi! 👋
 
-![ATTA-E-RABI]([https://your-photo-url.jpg](https://drive.google.com/file/d/1OUcR-A6UjwCmjaxqFhbak9AhDtLE3YdU/view))
+
+![Atta-e-Rabi](https://drive.google.com/uc?export=view&id=1OUcR-A6UjwCmjaxqFhbak9AhDtLE3YdU)
+
 
 I'm passionate about leveraging technology to create innovative solutions. Feel free to explore my repositories and don't hesitate to reach out!
 
@@ -34,4 +37,17 @@ I'm passionate about leveraging technology to create innovative solutions. Feel 
 - ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
 - ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
 - ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-  
+
+  ## More About Me
+
+- 🔭 I’m currently working on creating a new web app using ReactJS and Node.js.
+- 🌱 I’m currently learning about machine learning algorithms and their applications in AI.
+- 👯 I’m looking to collaborate on open-source projects related to data visualization.
+- 🤔 I’m looking for help with optimizing database performance in large-scale applications.
+- 💬 Ask me about fullstack-development,
+- 📫 How to reach me: [Your Email](mailto:amalik8989@gmail.com)
+- 😄 Pronouns: He/Him
+
+
+## Portfolio Website
+[Check out my portfolio!](https://codecanvas-v2.netlify.app/)
