@@ -28,6 +28,8 @@ I'm passionate about leveraging technology to create innovative solutions. Feel 
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
 
 
 
@@ -65,3 +67,8 @@ I'm passionate about leveraging technology to create innovative solutions. Feel 
 
 ## Portfolio Website
 [Check out my portfolio!](https://codecanvas-v2.netlify.app/)
+
+# unlisted Websites
+- [Car Zone Landing Page](https://car-zonev2.netlify.app/)
+- [Rent For You - Car Travel Agency](https://rentforyou.netlify.app/)
+- [CloudHive Hosting Company](https://cloudhive-hosting.netlify.app/)
