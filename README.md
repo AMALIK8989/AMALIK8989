@@ -2,7 +2,7 @@
 # Hi there, I'm Atta-e-Rabi! 👋
 
 
-![Atta-e-Rabi](https://drive.google.com/uc?export=view&id=1OUcR-A6UjwCmjaxqFhbak9AhDtLE3YdU)
+![Atta-e-Rabi]((https://github.com/AMALIK8989/AMALIK8989/blob/main/FB_IMG_1699567483088-removebg-preview.png))
 
 
 I'm passionate about leveraging technology to create innovative solutions. Feel free to explore my repositories and don't hesitate to reach out!
