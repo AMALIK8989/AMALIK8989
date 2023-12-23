@@ -3,7 +3,7 @@
 
 # Hi there, I'm Atta-e-Rabi! 👋
 
-![Atta-e-Rabi](https://github.com/AMALIK8989/AMALIK8989/blob/main/3f34cd2c-f7f7-4e4b-b957-8f72d59fa70c.jpg)
+<img src="https://github.com/AMALIK8989/AMALIK8989/blob/main/3f34cd2c-f7f7-4e4b-b957-8f72d59fa70c.jpg" alt="Atta-e-Rabi" style="border-radius: 50%; width: 150px; height: 150px;">
 
 
 
