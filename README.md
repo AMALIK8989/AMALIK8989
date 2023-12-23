@@ -3,6 +3,9 @@
 
 # Hi there, I'm Atta-e-Rabi! 👋
 
+![Atta-e-Rabi](https://github.com/AMALIK8989/AMALIK8989/blob/main/FB_IMG_1699567483088-removebg-preview.png)
+
+
 I'm a dedicated Full-Stack Maestro with a fervor for creating exceptional software experiences. My journey in software engineering has been driven by a deep passion for innovation and problem-solving. I'm proficient in a wide array of technologies, from frontend frameworks like ReactJS, Angular, and Next.js to backend systems using Node.js, Express.js, Laravel, and Django. I also have experience in mobile app development with React Native and a penchant for utilizing databases like MySQL and MongoDB effectively.
 
 Apart from my technical prowess, I'm an avid learner in the realm of Artificial Intelligence, constantly exploring its applications to enhance software functionality. My fascination with AI aligns with my commitment to staying at the forefront of technology, ensuring the solutions I build are both cutting-edge and efficient.
@@ -14,7 +17,7 @@ I am deeply invested in my journey to become a successful tech entrepreneur, aim
 Feel free to explore my repositories and connect with me. I'm always eager to collaborate on exciting projects and discuss the endless possibilities that technology presents!
 
 
-![Atta-e-Rabi](https://github.com/AMALIK8989/AMALIK8989/blob/main/FB_IMG_1699567483088-removebg-preview.png)
+
 
 
 I'm passionate about leveraging technology to create innovative solutions. Feel free to explore my repositories and don't hesitate to reach out!
