@@ -1,117 +1,122 @@
-Hi there, I'm AMALIK8989 👋
-<img src="https://github.com/AMALIK8989/AMALIK8989/blob/main/3f34cd2c-f7f7-4e4b-b957-8f72d59fa70c.jpg" alt="Atta-e-Rabi" style="border-radius: 50%; width: 150px; height: 150px;">
-About Me
+# Hi there, I'm **AMALIK8989** 👋
 
-I’m a Full Stack Developer passionate about building modern, scalable, and innovative web applications. My expertise spans frontend frameworks, backend architectures, cloud solutions, and blockchain development. I enjoy integrating AI to solve real-world problems and creating seamless digital experiences.
+<img src="https://github.com/AMALIK8989/AMALIK8989/blob/main/3f34cd2c-f7f7-4e4b-b957-8f72d59fa70c.jpg" alt="Atta-e-Rabi" width="150" height="150" style="border-radius: 50%;"/>
 
-Outside of coding, I love diving into religious studies, political theory, and tech trends. Sports like cricket and soccer keep me active, while puzzles and video games sharpen my problem-solving skills. My ultimate ambition is to establish a globally recognized, ethical, and inclusive tech company.
+## About Me
 
-Feel free to explore my repositories and connect—I’m always open to collaboration and exciting ideas!
+I'm a **Full Stack Developer** passionate about building scalable, innovative, and user-friendly web applications. I specialize in **frontend frameworks, backend architectures, cloud solutions, and blockchain development**, with a strong interest in integrating **AI** for real-world problem-solving.
 
-🔭 Current Focus
+Outside coding, I enjoy **religious studies, political theory, sports (cricket & soccer), puzzles, and gaming**. My goal is to build a **globally recognized, ethical, and inclusive tech company**.
 
-Developing enterprise-level solutions with .NET Core and Next.js
+---
 
-Deepening expertise in blockchain and cloud architecture
+## 🔭 Current Focus
 
-Open to innovative DeFi and mobile projects
+- Enterprise-level solutions using **.NET Core** and **Next.js**  
+- Deepening expertise in **blockchain & cloud architecture**  
+- Open for **innovative DeFi and mobile projects**  
+- Ask me about **Full Stack, Blockchain, or Cloud solutions**  
 
-Always happy to chat about Full Stack, Blockchain, or Cloud solutions
+📫 Reach me: [amailik8989@gmail.com](mailto:amailik8989@gmail.com)
 
-📫 Reach me: amailik8989@gmail.com
+---
 
-💼 Professional Experience
+## 💼 Professional Experience
 
-MERN Stack Intern
-Techbridge Consultancy Services | Lahore, Pakistan
-September 2025 – Present
+**MERN Stack Intern**  
+*Techbridge Consultancy Services | Lahore, Pakistan*  
+*Sept 2025 – Present*  
+- Building MERN stack projects in a real-world environment.
 
-Learning and applying MERN stack technologies in real-world projects.
+**Junior Web Developer**  
+*Creative Artistz | Karachi, Pakistan*  
+*Aug 2022 – Sept 2025*  
+- Developed responsive and visually appealing web pages.  
+- Optimized front-end performance and integrated APIs.
 
-Junior Web Developer
-Creative Artistz | Karachi, Pakistan
-August 2022 – September 2025
+**Front-End Developer Intern**  
+*Vector Labs | Karachi, Pakistan*  
+*Apr 2022 – Jul 2022*  
+- Improved website performance and user engagement.  
+- Actively participated in code reviews and version control using **Git**.
 
-Developed responsive, visually appealing web pages.
+**Assistant Accountant**  
+*Al-Abid Silk Mills | Karachi, Pakistan*  
+*Jan 2024 – Jul 2024*  
+- Managed accounting tasks and financial records.
 
-Optimized front-end performance and collaborated on API integration.
+---
 
-Front-End Developer Intern
-Vector Labs | Karachi, Pakistan
-April 2022 – July 2022
+## 🛠️ Tech Stack
 
-Improved website performance and participated in code reviews.
+**Frontend:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32"/> 
 
-Managed code efficiently using Git.
+**Backend:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32"/> 
 
-Assistant Accountant
-Al-Abid Silk Mills | Karachi, Pakistan
-January 2024 – July 2024
+**Databases:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/> 
+<img src="https://img.icons8.com/color/48/firebase.png" height="32"/>  
 
-Managed accounting tasks and contributed to financial record-keeping.
+**Mobile:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>  
 
-🛠️ Tech Stack
+**Blockchain:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="32"/>  
 
-Frontend:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32"/>
+**Cloud & DevOps:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/> 
 
-Backend:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32"/>
+---
 
-Languages:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+## 🚀 Featured Projects
 
-Databases:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/> <img src="https://img.icons8.com/color/48/firebase.png" height="32"/>
+- [Flickrift](https://flickrift.netlify.app)  
+- [Muush](https://muush.co)  
+- [Biostrips Health](https://biostripshealth.com)  
+- [Ewvilla Medica](https://ewvillamedica.com)  
+- [Black Sheep Construction](https://blacksheepconstruction.com/)  
+- [Nume Hair](https://numehair.com)  
+- [Pro Air Duct Services](https://proairductservices.com)  
+- Tegment Gaming (**closed**)  
 
-Mobile:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+---
 
-Blockchain:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="32"/>
+## 📊 GitHub Stats
 
-Cloud & DevOps:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
+![AMALIK8989's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMALIK8989&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMALIK8989&layout=compact&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMALIK8989&theme=radical)](https://git.io/streak-stats)
 
-🚀 Featured Projects
+---
 
-Flickrift
+## 🌐 Connect with Me
 
-Muush
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/your-profile/)  
+[![Twitter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg)](https://twitter.com/your-profile)  
+[![Website](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://nexonix.netlify.app/)
 
-Biostrips Health
+---
 
-Ewvilla Medica
+## ✍️ Content Writing
 
-Black Sheep Construction
-
-Nume Hair
-
-Pro Air Duct Services
-
-Tegment Gaming (closed)
-
-📊 GitHub Stats
-
-
-
-
-
-
-🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/your-profile/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/></a>
-<a href="https://twitter.com/your-profile" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="32"/></a>
-<a href="https://nexonix.netlify.app/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="32"/></a>
-
-🗂️ Other Projects
-
-Car Zone Landing Page
-
-Rent For You – Car Travel Agency
-
-CloudHive Hosting Company
-
-✍️ Content Writing
-
-Blogging Website
+- [Blogging Website](https://thebloggers1997.blogspot.com/)
