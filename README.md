@@ -12,6 +12,7 @@ Feel free to explore my repositories and connect with me—I’m always open to 
 
 ---
 
+
 - 🔭 Currently developing enterprise-level solutions with .NET Core and Next.js
 - 🌱 Deepening expertise in advanced blockchain and cloud architecture
 - 👯 Available for innovative DeFi and mobile projects
@@ -20,6 +21,41 @@ Feel free to explore my repositories and connect with me—I’m always open to 
 
 ---
 
+## Work Experience
+
+Mern Stack Intern
+Techbridge Consultancy Services | Lahore, Pakistan
+September 2025 - Present
+
+Currently learning and applying MERN stack technologies in a real-world environment.
+
+Junior Web Developer
+Creative Artistz | Karachi, Pakistan
+August 2022 - September 2025
+
+Developed and maintained multiple web pages, ensuring a clean, responsive, and visually appealing design.
+
+Collaborated with senior developers to optimize front-end performance and reduce page load times.
+
+Assisted in integrating front-end code with back-end services using APIs to enhance interactivity.
+
+Front-End Developer Intern
+Vector Labs | Karachi, Pakistan
+April 2022 - July 2022
+
+Assisted in optimizing website performance, which resulted in faster load times and improved user engagement.
+
+Actively participated in code reviews, gaining valuable feedback and improving coding practices.
+
+Utilized version control tools like Git to efficiently manage and update project code.
+
+Assistant Accountant
+Al-Abid Silk Mills | Karachi, Pakistan
+January 2024 - July 2024
+
+Managed accounting tasks and contributed to financial record-keeping.
+
+---
 ## 🛠️ Tech Stack
 
 <p align="left">
