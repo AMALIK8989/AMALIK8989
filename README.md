@@ -25,7 +25,7 @@ Outside coding, I enjoy **religious studies, political theory, sports (cricket &
 
 ### Junior Web Developer  
 **Techbridge Consultancy Services** | Lahore, Pakistan  
-*Sept 2025 – Present*  
+*Feb 2025 – Present*  
 - Promoted from MERN Stack Intern to Junior Web Developer based on performance and contribution.  
 - Developing and maintaining dynamic websites using **WordPress**.  
 - Customizing themes and plugins to meet client requirements.  
