@@ -23,27 +23,48 @@ Outside coding, I enjoy **religious studies, political theory, sports (cricket &
 
 ## 💼 Professional Experience
 
-**MERN Stack Intern**  
-*Techbridge Consultancy Services | Lahore, Pakistan*  
+### Junior Web Developer  
+**Techbridge Consultancy Services** | Lahore, Pakistan  
 *Sept 2025 – Present*  
-- Building MERN stack projects in a real-world environment.
+- Promoted from MERN Stack Intern to Junior Web Developer based on performance and contribution.  
+- Developing and maintaining dynamic websites using **WordPress**.  
+- Customizing themes and plugins to meet client requirements.  
+- Optimizing website performance, SEO, and responsiveness.  
+- Collaborating with cross-functional teams to deliver high-quality solutions.  
+- Currently expanding expertise in **Angular** for modern front-end development.
 
-**Junior Web Developer**  
-*Creative Artistz | Karachi, Pakistan*  
+---
+
+### MERN Stack Intern  
+**Techbridge Consultancy Services** | Lahore, Pakistan  
+*Sept 2025*  
+- Built and maintained full-stack applications using MongoDB, Express.js, React, and Node.js.  
+- Assisted in API development and front-end integration.  
+- Worked in a real-world development environment under senior mentorship.
+
+---
+
+### Junior Web Developer  
+**Creative Artistz** | Karachi, Pakistan  
 *Aug 2022 – Sept 2025*  
 - Developed responsive and visually appealing web pages.  
-- Optimized front-end performance and integrated APIs.
+- Optimized front-end performance and integrated third-party APIs.  
+- Improved UI/UX consistency across multiple projects.
 
-**Front-End Developer Intern**  
-*Vector Labs | Karachi, Pakistan*  
+---
+
+### Front-End Developer Intern  
+**Vector Labs** | Karachi, Pakistan  
 *Apr 2022 – Jul 2022*  
 - Improved website performance and user engagement.  
-- Actively participated in code reviews and version control using **Git**.
+- Participated in code reviews and version control using **Git**.
 
-**Assistant Accountant**  
-*Al-Abid Silk Mills | Karachi, Pakistan*  
+---
+
+### Assistant Accountant  
+**Al-Abid Silk Mills** | Karachi, Pakistan  
 *Jan 2024 – Jul 2024*  
-- Managed accounting tasks and financial records.
+- Managed accounting tasks and maintained financial records with accuracy.
 
 ---
 
@@ -60,6 +81,7 @@ Outside coding, I enjoy **religious studies, political theory, sports (cricket &
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32"/> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" height="32"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" height="32"/> 
 
 **Backend:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/> 
