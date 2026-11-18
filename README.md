@@ -1,144 +1,76 @@
-# Hi there, I'm **AMALIK8989** 👋
+# Hey, I'm Atta-e-Rabi Malik 👋
 
-<img src="https://github.com/AMALIK8989/AMALIK8989/blob/main/3f34cd2c-f7f7-4e4b-b957-8f72d59fa70c.jpg" alt="Atta-e-Rabi" width="150" height="150" style="border-radius: 50%;"/>
+**Software Engineer · WordPress & PHP Developer · AI Engineering Enthusiast**
 
-## About Me
+I build responsive, performant web experiences and custom WordPress solutions, with a focus on clean implementation, practical problem-solving, and measurable results. My work spans WordPress development, PHP, JavaScript, technical SEO, and website performance. I'm also strengthening my Python foundations and exploring AI-assisted software development as I work toward AI engineering.
 
-I'm a **Full Stack Developer** passionate about building scalable, innovative, and user-friendly web applications. I specialize in **frontend frameworks, backend architectures, cloud solutions, and blockchain development**, with a strong interest in integrating **AI** for real-world problem-solving.
-
-Outside coding, I enjoy **religious studies, political theory, sports (cricket & soccer), puzzles, and gaming**. My goal is to build a **globally recognized, ethical, and inclusive tech company**.
-
----
-
-## 🔭 Current Focus
-
-- Enterprise-level solutions using **.NET Core** and **Next.js**  
-- Deepening expertise in **blockchain & cloud architecture**  
-- Open for **innovative DeFi and mobile projects**  
-- Ask me about **Full Stack, Blockchain, or Cloud solutions**  
-
-📫 Reach me: [amailik8989@gmail.com](mailto:amailik8989@gmail.com)
-
----
-
-## 💼 Professional Experience
-
-### Junior Web Developer  
-**Techbridge Consultancy Services** | Lahore, Pakistan  
-*Aug 2025 – Present*  
-- Promoted from MERN Stack Intern to Junior Web Developer based on performance and contribution.  
-- Developing and maintaining dynamic websites using **WordPress**.  
-- Customizing themes and plugins to meet client requirements.  
-- Optimizing website performance, SEO, and responsiveness.  
-- Collaborating with cross-functional teams to deliver high-quality solutions.  
-- Currently expanding expertise in **Angular** for modern front-end development.
-
----
-
-### MERN Stack Intern  
-**Techbridge Consultancy Services** | Lahore, Pakistan  
-*Sept 2025*  
-- Built and maintained full-stack applications using MongoDB, Express.js, React, and Node.js.  
-- Assisted in API development and front-end integration.  
-- Worked in a real-world development environment under senior mentorship.
-
----
-
-### Junior Web Developer  
-**Creative Artistz** | Karachi, Pakistan  
-*Aug 2022 – Sept 2025*  
-- Developed responsive and visually appealing web pages.  
-- Optimized front-end performance and integrated third-party APIs.  
-- Improved UI/UX consistency across multiple projects.
-
----
-
-### Front-End Developer Intern  
-**Vector Labs** | Karachi, Pakistan  
-*Apr 2022 – Jul 2022*  
-- Improved website performance and user engagement.  
-- Participated in code reviews and version control using **Git**.
-
----
-
-### Assistant Accountant  
-**Al-Abid Silk Mills** | Karachi, Pakistan  
-*Jan 2024 – Jul 2024*  
-- Managed accounting tasks and maintained financial records with accuracy.
+- 🔭 **Currently working on:** Custom WordPress development, website performance, and SEO-focused web projects
+- 🌱 **Currently learning:** Python, APIs, and the foundations of AI engineering
+- 🧰 **Core strengths:** WordPress, PHP, custom themes and plugins, JavaScript, and Core Web Vitals
+- 🤝 **Interested in:** Meaningful software projects, thoughtful collaboration, and opportunities to grow as an engineer
+- 📍 **Based in:** Lahore, Pakistan
+- 📫 **Email:** [amalik8989@gmail.com](mailto:amalik8989@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32"/> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" height="32"/> 
+**Web development**  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32"/> 
+**Platforms & tools**  
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Databases:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/> 
-<img src="https://img.icons8.com/color/48/firebase.png" height="32"/>  
-
-**Mobile:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>  
-
-**Blockchain:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="32"/>  
-
-**Cloud & DevOps:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/> 
+**Currently exploring**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
-- [Flickrift](https://flickrift.netlify.app)  
-- [Muush](https://muush.co)  
-- [Biostrips Health](https://biostripshealth.com)  
-- [Ewvilla Medica](https://ewvillamedica.com)  
-- [Black Sheep Construction](https://blacksheepconstruction.com/)  
-- [Nume Hair](https://numehair.com)  
-- [Pro Air Duct Services](https://proairductservices.com)  
-- Tegment Gaming (**closed**)  
+| Project | What it is |
+| --- | --- |
+| [Cineluxx](https://cineluxx.netlify.app/) | A film-discovery and streaming-style web project, with structured genre pages and technical SEO. |
+| [GTA Pest Solutions](https://gtapestsolutions.ca/) | A service-business website focused on responsive WordPress implementation, performance, and local SEO. |
+| [4K Pest Control](https://4kpestcontrol.ca/) | A pest-control business website and practical web-development project. |
 
----
-
-## 📊 GitHub Stats
-
-![AMALIK8989's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMALIK8989&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMALIK8989&layout=compact&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMALIK8989&theme=radical)](https://git.io/streak-stats)
+I enjoy taking projects beyond the visual layer: improving structure, usability, performance, maintainability, and search visibility.
 
 ---
 
-## 🌐 Connect with Me
+## 💼 Experience
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/your-profile/)  
-[![Twitter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg)](https://twitter.com/your-profile)  
-[![Website](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://nexonix.netlify.app/)
+**Junior WordPress Developer — TechBridge Consultancy Services**  
+*Lahore, Pakistan · October 2026 – Present*
+
+- Develop and maintain WordPress websites for business and client requirements.
+- Build and customize website functionality, themes, and layouts using PHP, JavaScript, and WordPress tooling.
+- Work on responsive implementation, technical SEO, and Core Web Vitals improvements.
+
+**Junior Web Developer — Creative Artistz**  
+*August 2022 – September 2025*
+
+- Developed responsive websites and user-facing web interfaces.
+- Worked across front-end implementation, integrations, and website improvements.
 
 ---
 
-## ✍️ Content Writing
+## 📚 Learning & Growth
 
-- [Blogging Website](https://thebloggers1997.blogspot.com/)
+I'm building a stronger foundation in Python and software engineering, while exploring APIs and AI-assisted development workflows. I value understanding the fundamentals rather than simply collecting tools, and I share projects as I learn and build.
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMALIK8989&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMALIK8989&layout=compact&hide_border=true&theme=transparent)
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atta-e-rabi-malik-aa4b08163) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMALIK8989) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalik8989@gmail.com)
+
+---
